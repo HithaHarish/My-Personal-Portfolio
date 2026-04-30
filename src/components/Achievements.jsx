@@ -35,7 +35,7 @@ export default function Achievements() {
         <ul className="achievements-list">
           {achievements.map((item, index) => (
             <li key={index}>
-              <strong>{item}</strong>
+              {item}
             </li>
           ))}
         </ul>
