@@ -18,10 +18,10 @@ export default function App() {
       <Navbar />
       <div id="home"><Home /></div>
       <div id="achievements"><Achievements /></div>
-      <div id="skills"><Skills /></div>
       <div id="experience"><Experience /></div>
       <div id="projects"><Projects /></div>
       <div id="certifications"><Certifications /></div>
+      <div id="skills"><Skills /></div>
       <div id="contact"><Contact /></div>
       <div ><Footer /></div>
       <FluidCursor />
