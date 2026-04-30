@@ -78,7 +78,7 @@
 
     opacity: 0; /* initially hidden till animation starts */
 
-    animation: type3 5s steps(28, end), blink .5s step-end infinite alternate;
+    animation: type3 6s steps(35, end), blink .5s step-end infinite alternate;
     /* uses type3 animation */
     /* duration 5s - width is longer so more duration */
     /* Divides the animation into 25 fixed steps, mimicking typing letter by letter. */
