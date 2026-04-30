@@ -3,14 +3,15 @@ export const achievementsData = {
   profileImage: "/assets/Achievements/profileimage.png",
   descriptionPoints: [
     "I'm a 3rd-year Computer Science Engineering student at BMS College of Engineering, Bengaluru",
-    "Curious about both what users see and how it works behind the scenes."
+    "Learning continuously, growing consistently"
   ],
   achievements: [
-    "Ranked among the top 0.6% of LeetCode users globally",
-    "Global LeetCode Rank: 116,790 — and climbing.",
-    "Leetcode solved 500+ problems",
-    "Reached a peak contest rating of 1535 on LeetCode",
-    "Maintaining a CGPA of 9.39 ( 4th Semester )",
+    "I'm an R&D Intern at Samsung PRISM",
+    "Secured the 3rd place at the SolarisX National-level Hackathon 2026 at RNSIT, Bengaluru",
+    "Qualified as a Finalist ( Top 10 / 450+ teams ) at the VISA AI Hackathon 2026 at IIT Madras",
+    "Super Contributor at Hacktoberfest 2025",
+    "Leetcode : 700+ problems solved | 1531 Ranking",
+    "Maintaining a CGPA of 9.39 ( 5th Semester )",
   ],
   badges: [
     { name: "Postman API Fundamentals Student Expert", image: "/assets/Achievements/Badges/Postman.png" },
