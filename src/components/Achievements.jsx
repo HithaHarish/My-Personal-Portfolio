@@ -31,7 +31,7 @@ export default function Achievements() {
 
       {/* Right Section */}
       <div className="about-right">
-        <h3 className="section-title">My Progress So Far</h3>
+        <h3 className="section-title">My Progress So Far...</h3>
         <ul className="achievements-list">
           {achievements.map((item, index) => (
             <li key={index}>
