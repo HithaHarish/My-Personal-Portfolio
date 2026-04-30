@@ -10,7 +10,7 @@ export default function Home() {
       <div className="animation">
         <p className="subtitle">Meet Me,</p>
         <p className="title">Hitha Harish</p>
-        <p className="subtitle">I'm a Developer.</p>
+        <p className="subtitle">I'm just a Curious Developer.</p>
 
         <a
           href="/hitha22harish@gmail.com_HithaHarish_Resume.pdf"
