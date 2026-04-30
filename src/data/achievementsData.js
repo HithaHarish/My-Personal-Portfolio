@@ -1,6 +1,6 @@
 export const achievementsData = {
   name: "Hitha Harish",
-  profileImage: "/assets/Achievements/profileimage.png",
+  profileImage: "/assets/Achievements/profileimg.jpeg",
   descriptionPoints: [
     "I'm a 3rd-year Computer Science Engineering student at BMS College of Engineering, Bengaluru",
     "Learning continuously, growing consistently"
