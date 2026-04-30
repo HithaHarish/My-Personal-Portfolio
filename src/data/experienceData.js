@@ -17,7 +17,7 @@ const experienceData /* Array of Objects */ = [
     description:
       "Independently designed and developed a full-fledged company website, covering UI/UX, responsive frontend, and backend. Handled deployment and hosting to deliver a seamless, professional online presence.",
 
-    website: "uven.co.in", // Example website link
+    website: "https://www.uven.co.in", // Example website link
     techStack: [
       "icons/React.svg",
       "icons/Next.svg",
