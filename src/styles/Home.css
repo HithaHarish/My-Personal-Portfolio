@@ -74,7 +74,7 @@
 
 .animation p:nth-child(3) {
 
-    width: 10.9em; /* final visible width of the text */
+    width: 11.2em; /* final visible width of the text */
 
     opacity: 0; /* initially hidden till animation starts */
 
