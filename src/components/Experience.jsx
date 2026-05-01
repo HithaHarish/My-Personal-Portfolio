@@ -27,7 +27,7 @@ export default function Experience() {
 
   return (
     <div className="experience-container">
-      <h2 className="experience-title">I'm experienced in..</h2>
+      <h2 className="experience-title">My Development Journey</h2>
 
       {experienceData.map((exp, index) => (
         <div
