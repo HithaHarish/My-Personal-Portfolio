@@ -27,7 +27,7 @@ export default function Skills() {
 
   return (
     <div className="skills-container">
-      <h2 className="skills-title open-sans">My Stack</h2>
+      <h2 className="skills-title open-sans">I've worked with...</h2>
 
       <div className="all-skills-wrapper">
         {allSkills.map((skill) => (
