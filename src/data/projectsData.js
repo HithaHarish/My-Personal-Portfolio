@@ -31,7 +31,7 @@ const projects = [
   {
     title: "AI validated Multilayered Fraud Review Detection",
     image: "/assets/Projects/images/FraudReviewDetection.png",
-    description: "Achieved an accuracy >85% in building a multi-layered fraud review detection system implemented using XG Boost for classification, with analysis across textual (NLP via sentiment & embeddings), behavioral (customer and product patterns), and temporal features to predict genuine, suspicious, or fraudulent reviews. Integrated a local LLM (Phi3 via Ollama) to generate structured, evidence-based explanations aligned with top contributing features.",
+    description: "A multi-layered fraud review detection system implemented using XG Boost for classification, with analysis across textual, behavioral, and temporal features to predict genuine, or fraudulent reviews. Integrated a local LLM to generate structured, evidence-based explanations.",
     techStack: [
       { name:"Ollama", icon: "/icons/Ollama.svg" },
       { name: "Python", icon: "/icons/Python.svg" },
