@@ -101,7 +101,7 @@
 
 .badges-section {
 
-  margin-top: 3rem;
+  margin-top: 2rem;
 
 }
 
@@ -116,7 +116,7 @@
 
 .badge-icon{
   
-  height: 50px;
+  height: 70px;
   width: auto; 
   object-fit: cover; /* Ensures the image covers the area without stretching */
 }
