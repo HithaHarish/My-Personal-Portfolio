@@ -6,7 +6,7 @@ import "../styles/Projects.css";
 export default function Projects() {
   return (
     <div className="projects-container">
-      <h2 className="projects-title">Projects I've worked on..</h2>
+      <h2 className="projects-title">Key Projects I've worked on..</h2>
 
       <div className="projects-grid">
         {projects.map((proj, index) => (
