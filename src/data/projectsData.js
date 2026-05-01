@@ -24,7 +24,6 @@ const projects = [
       { name: "Mistral", icon: "/icons/Mistral.svg" },
       { name: "Python", icon: "/icons/Python.svg" },
       { name: "Pandas", icon: "/icons/Pandas.svg" },
-      { name: "Pandera", icon: "/icons/Pandera.svg" },
       { name: "Streamlit", icon: "/icons/Streamlit.svg" }
     ],
     github: "https://github.com/HithaHarish/VISA-AI-Hackathon",
@@ -35,11 +34,9 @@ const projects = [
     description: "Achieved an accuracy >85% in building a multi-layered fraud review detection system implemented using XG Boost for classification, with analysis across textual (NLP via sentiment & embeddings), behavioral (customer and product patterns), and temporal features to predict genuine, suspicious, or fraudulent reviews. Integrated a local LLM (Phi3 via Ollama) to generate structured, evidence-based explanations aligned with top contributing features.",
     techStack: [
       { name:"Ollama", icon: "/icons/Ollama.svg" },
-      { name: "Phi3", icon: "/icons/Phi3.svg" },
       { name: "Python", icon: "/icons/Python.svg" },
       { name: "Pandas", icon: "/icons/Pandas.svg" },
       { name: "XGBoost", icon: "/icons/XGBoost.svg" },
-      { name : "TF-IDF Vectoriser", icon: "/icons/TFTDF.svg" },
       { name: "Streamlit", icon: "/icons/Streamlit.svg" }
     ],
     github: "https://github.com/HithaHarish/FraudReviewDetection",
