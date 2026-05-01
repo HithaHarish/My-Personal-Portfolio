@@ -14,6 +14,13 @@ export const achievementsData = {
     "Maintaining a CGPA of 9.39 ( 5th Semester )",
   ],
   badges: [
+    { name: "AWS - Serverless", image: "/assets/Achievements/Badges/aws-educate-getting-started-with-serverless-trainin.png" },
+    { name: "AWS - Compute", image: "/assets/Achievements/Badges/aws-educate-getting-started-with-compute-training-b.png" },
+    { name: "AWS - Storage", image: "/assets/Achievements/Badges/aws-educate-getting-started-with-storage-training-b.png" },
+    { name: "AWS - Security", image: "/assets/Achievements/Badges/aws-educate-getting-started-with-security-training-b.png" },
+    { name: "AWS - Introduction to Cloud", image: "/assets/Achievements/Badges/aws-educate-introduction-to-cloud-101-training-badg.png" },
+    { name: "MongoDB Basics", image: "/assets/Achievements/Badges/mongodb-basics-for-students.png" },
+    { name: "Introduction to Node.js", image: "/assets/Achievements/Badges/lfw111-introduction-to-node-js.png" },
     { name: "Postman API Fundamentals Student Expert", image: "/assets/Achievements/Badges/Postman.png" },
     { name: "100 Days 2025" , image: "/assets/Achievements/Badges/100days2025.png" },
     { name: "50 Days 2025", image: "/assets/Achievements/Badges/50days2025.png" },
