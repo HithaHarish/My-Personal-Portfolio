@@ -10,7 +10,7 @@ export default function Certifications() {
 
   return (
     <div className="certifications-container">
-      <h2 className="certifications-title">My Certifications</h2>
+      <h2 className="certifications-title">I've earned these..</h2>
 
       {certificationsData.map((cer, index) => (
         <div
