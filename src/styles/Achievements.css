@@ -116,7 +116,7 @@
 
 .badge-icon{
   
-  height: 100px;
+  height: 50px;
   width: auto; 
   object-fit: cover; /* Ensures the image covers the area without stretching */
 }
