@@ -4,6 +4,7 @@ export const achievementsData = {
   descriptionPoints: [
     "I'm a 3rd-year Computer Science Engineering student at BMS College of Engineering, Bengaluru",
     "I believe in Learning Continuously, Growing Consistently"
+    "I build until it makes sense."
   ],
   achievements: [
     "An R&D Intern at Samsung PRISM",
