@@ -7,9 +7,9 @@ export const achievementsData = {
   ],
   achievements: [
     "I'm an R&D Intern at Samsung PRISM",
-    "Secured the 3rd place at the SolarisX National-level Hackathon 2026 at RNSIT, Bengaluru",
-    "Qualified as a Finalist ( Top 10 / 450+ teams ) at the VISA AI Hackathon 2026 at IIT Madras",
-    "Super Contributor at Hacktoberfest 2025",
+    "Secured the 3rd place in the SolarisX National-level Hackathon 2026 at RNSIT, Bengaluru",
+    "Qualified as a Finalist ( Top 10 / 450+ teams ) in the VISA AI Hackathon 2026 at IIT Madras",
+    "Super Contributor, Hacktoberfest 2025",
     "Leetcode : 700+ problems solved | 1531 Ranking",
     "Maintaining a CGPA of 9.39 ( 5th Semester )",
   ],
