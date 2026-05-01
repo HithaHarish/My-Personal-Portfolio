@@ -16,30 +16,33 @@ const projects = [
     github: "https://github.com/HithaHarish/Portfolio",
   },
   {
-    title: "Virtual Fashion Assistant - Female (Ongoing)",
-    image: "/assets/Projects/images/LookWise.jpeg",
-    description: "A Flutter app that provides users with customized outfit suggestions based on their body parameters. It integrates data from various e-commerce platforms via Google Custom Search Engine, offers weather-based styling options using OpenWeather, offers restyling closet options and includes a chatbot for real-time fashion advice.",
+    title: "GenAI based Data Quality Summariser",
+    image: "/assets/Projects/images/DQS.jpeg",
+    description: "Developed a GenAI-based Data Quality Summarizer delivering explainable quality scores for individual datasets, an integrated data quality score and actionable insights generated using a local LLM (Mistral using Ollama) with privacy-first governance achieved using metadata-only approach.",
     techStack: [
-      { name:"Flutter", icon: "/icons/Flutter.svg" },
-      { name: "Dart", icon: "/icons/Dart.svg" },
-      { name: "Supabase", icon: "/icons/Supabase.svg" },
-      { name: "OpenAI", icon: "/icons/OpenAI.svg" },
-      { name: "OpenWeather", icon: "/icons/OpenWeather.svg" },
-      { name: "GoogleCustomSearch", icon: "/icons/Google Custom.svg" }
+      { name:"Ollama", icon: "/icons/Ollama.svg" },
+      { name: "Mistral", icon: "/icons/Mistral.svg" },
+      { name: "Python", icon: "/icons/Python.svg" },
+      { name: "Pandas", icon: "/icons/Pandas.svg" },
+      { name: "Pandera", icon: "/icons/Pandera.svg" },
+      { name: "Streamlit", icon: "/icons/Streamlit.svg" }
     ],
-    github: "https://github.com/HithaHarish/LookWise",
+    github: "https://github.com/HithaHarish/VISA-AI-Hackathon",
   },
   {
-    title: "InterLanguage Shell Scripting",
-    image: "/assets/Projects/images/InterLang.png",
-    description: "A Linux-based library management system using interlanguage shell scripting, with MySQL for data storage and manipualtion, C for basic functionality such as taking user input and using it for data manipulation, and Python for analysis of library statistics.",
+    title: "AI validated Multilayered Fraud Review Detection",
+    image: "/assets/Projects/images/FraudReviewDetection.png",
+    description: "Achieved an accuracy >85% in building a multi-layered fraud review detection system implemented using XG Boost for classification, with analysis across textual (NLP via sentiment & embeddings), behavioral (customer and product patterns), and temporal features to predict genuine, suspicious, or fraudulent reviews. Integrated a local LLM (Phi3 via Ollama) to generate structured, evidence-based explanations aligned with top contributing features.",
     techStack: [
-      { name: "Linux", icon: "/icons/Linux.svg" },
+      { name:"Ollama", icon: "/icons/Ollama.svg" },
+      { name: "Phi3", icon: "/icons/Phi3.svg" },
       { name: "Python", icon: "/icons/Python.svg" },
-      { name: "C", icon: "/icons/C.svg" },
-      { name: "MySQL", icon: "/icons/MySQL.svg" }
+      { name: "Pandas", icon: "/icons/Pandas.svg" },
+      { name: "XGBoost", icon: "/icons/XGBoost.svg" },
+      { name : "TF-IDF Vectoriser", icon: "/icons/TFTDF.svg" },
+      { name: "Streamlit", icon: "/icons/Streamlit.svg" }
     ],
-    github: "https://github.com/HithaHarish/EmployeeManagementSystem",
+    github: "https://github.com/HithaHarish/FraudReviewDetection",
   },
 
 
