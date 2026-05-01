@@ -15,10 +15,10 @@ export default function Navbar(){
         <ul className="nav-links">
 
           <li><a href="#home">Me</a></li> 
-          <li><a href="#skills">Stack</a></li>
           <li><a href="#experience">Experience</a></li>
           <li><a href="#projects">Projects</a></li>
           <li><a href="#certifications">Certifications</a></li>
+          li><a href="#skills">Stack</a></li>
           <li><a href="#contact">Contact</a></li>
 
         </ul>
